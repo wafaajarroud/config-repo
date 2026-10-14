@@ -1,0 +1,3 @@
+campus:
+  environment: prod
+  message: "Portail enseignants PROD"
